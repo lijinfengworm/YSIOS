@@ -1,0 +1,6 @@
+framework module Pods_YSTools_Example {
+  umbrella header "Pods-YSTools_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
